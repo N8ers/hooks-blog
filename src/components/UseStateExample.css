@@ -1,0 +1,28 @@
+.exampleWrapper {
+  background-color: #CFE8EF;
+  color: black;
+  padding: 15px;
+  border-radius: 5px;
+}
+
+h3 {
+  margin-top: 0;
+}
+
+.interactiveBoxsWrapper {
+  display: flex;
+}
+
+.interactiveBox {
+  flex: 1;
+  padding: 10px;
+  width: 250px;
+  display: inline-block;
+  border: 1px solid black;
+}
+
+.label {
+  flex: 1;
+  font-size: 12px;
+  font-style: italic;
+}
